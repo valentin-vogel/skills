@@ -68,8 +68,6 @@ _Avoid_: chunking, modularity
 
 How a skill's content is arranged, and how far down the ladder each piece sits.
 
-### Information Hierarchy
-
 A skill's content ranked by how immediately the agent needs it — a single ladder, produced by two cuts: in-file or behind a pointer, and step or reference. The rungs:
 
 - **Steps** — in-file, primary
