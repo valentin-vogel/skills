@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "writing-great-skills": {
+      "source": "valentin-vogel/skills",
+      "sourceType": "github",
+      "skillPath": "skills/writing-great-skills/SKILL.md",
+      "computedHash": "e339a9878870e6ecfca69a8c43ea398ef0c19aa3f2ed12b230f521f19fdce166"
+    }
+  }
+}
