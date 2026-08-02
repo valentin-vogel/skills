@@ -23,7 +23,7 @@ Review files for compliance with Web Interface Guidelines.
 Fetch fresh guidelines before each review:
 
 ```
-./vercel-web-interface-guidelines.md
+./web-interface-guidelines.md
 ```
 
 Use WebFetch to retrieve the latest rules. The fetched content contains all the rules and output format instructions.
